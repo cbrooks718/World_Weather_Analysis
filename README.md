@@ -7,3 +7,7 @@ The purpose of this analysis is to improve the PlanMyTrip app in order for beta 
 - Create a DataFrame using imported data from OpenWeatherMap API to store WeatherData (stored in Weather_Database folder)
 - Using the retrieved weather data, code will be built out in order for beta testers to imput preferences and see selected destinations on a map
 - Last, using the Geoapify Routing API, beta testers will be able to see their selected cities on a map by creating waypoints and generating routs between destinations. 
+
+## References
+
+GeeksforGeeks. (2020, July 2). How to drop rows in DataFrame by conditions on column values? GeeksforGeeks. Retrieved January 19, 2023, from https://www.geeksforgeeks.org/how-to-drop-rows-in-dataframe-by-conditions-on-column-values/ 
